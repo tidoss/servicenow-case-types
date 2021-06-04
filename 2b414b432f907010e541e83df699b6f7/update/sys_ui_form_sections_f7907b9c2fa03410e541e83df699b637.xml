@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="f7907b9c2fa03410e541e83df699b637" sys_domain="global" table="x_643436_case_type_issue_inquiry" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 08:13:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb907b9c2fa03410e541e83df699b65b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_643436_case_type_issue_inquiry" name="x_643436_case_type_issue_inquiry" sys_domain="global" view="169009876d2620100acb70b35343302a">f7907b9c2fa03410e541e83df699b637</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_643436_case_type_issue_inquiry" sys_domain="global" view="169009876d2620100acb70b35343302a">3f907b9c2fa03410e541e83df699b64e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 08:13:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 08:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8a07b9c2fa03410e541e83df699b670</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_643436_case_type_issue_inquiry" name="x_643436_case_type_issue_inquiry" sys_domain="global" view="169009876d2620100acb70b35343302a">f7907b9c2fa03410e541e83df699b637</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_643436_case_type_issue_inquiry" sys_domain="global" view="169009876d2620100acb70b35343302a">f7907b9c2fa03410e541e83df699b66a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 08:13:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 08:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff907b9c2fa03410e541e83df699b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_643436_case_type_issue_inquiry" name="x_643436_case_type_issue_inquiry" sys_domain="global" view="169009876d2620100acb70b35343302a">f7907b9c2fa03410e541e83df699b637</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_643436_case_type_issue_inquiry" sys_domain="global" view="169009876d2620100acb70b35343302a">37907b9c2fa03410e541e83df699b663</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 08:13:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 08:13:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf907b9c2fa03410e541e83df699b64d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_643436_case_type_issue_inquiry" name="x_643436_case_type_issue_inquiry" sys_domain="global" view="169009876d2620100acb70b35343302a">f7907b9c2fa03410e541e83df699b637</sys_ui_form>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_643436_case_type_issue_inquiry" sys_domain="global" view="169009876d2620100acb70b35343302a">fb907b9c2fa03410e541e83df699b63a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 08:13:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 08:13:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f907b9c2fa03410e541e83df699b662</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_643436_case_type_issue_inquiry" name="x_643436_case_type_issue_inquiry" sys_domain="global" view="169009876d2620100acb70b35343302a">f7907b9c2fa03410e541e83df699b637</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_643436_case_type_issue_inquiry" sys_domain="global" view="169009876d2620100acb70b35343302a">b3907b9c2fa03410e541e83df699b65c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 08:13:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_643436_case_type_issue_inquiry</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 08:13:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7907b9c2fa03410e541e83df699b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_643436_case_type_issue_inquiry</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f7907b9c2fa03410e541e83df699b637</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 08:13:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">169009876d2620100acb70b35343302a</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Issue / Inquiry">a91adf182f603410e541e83df699b68f</sc_cat_item>
+        <sc_catalog display_value="Consumer Service">0f910a2ac3112200b12d9f2974d3ae3c</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-01 06:36:04</sys_created_on>
+        <sys_id>fa6a57582f603410e541e83df699b648</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Consumer Service.Issue / Inquiry</sys_name>
+        <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_fa6a57582f603410e541e83df699b648</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-01 06:36:04</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</application>
+        <file_path/>
+        <instance_id>4da484334f3612c0152a99701310c7a5</instance_id>
+        <instance_name>dev21682</instance_name>
+        <name>sc_cat_item_catalog_fa6a57582f603410e541e83df699b648</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Issue / Inquiry">a91adf182f603410e541e83df699b68f</sc_cat_item><sc_catalog display_value="Consumer Service">0f910a2ac3112200b12d9f2974d3ae3c</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-01 06:36:04</sys_created_on><sys_id>fa6a57582f603410e541e83df699b648</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Consumer Service.Issue / Inquiry</sys_name><sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package><sys_policy/><sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope><sys_update_name>sc_cat_item_catalog_fa6a57582f603410e541e83df699b648</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-01 06:36:04</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1437571338</payload_hash>
+        <record_name>Consumer Service.Issue / Inquiry</record_name>
+        <reverted_from/>
+        <source>3f414b432f907010e541e83df699b6f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-01 06:36:04</sys_created_on>
+        <sys_id>ba6a57582f603410e541e83df699b64b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179c64953b50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-01 06:36:04</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>f26a57584e603410d8e34ab4286a424b</update_guid>
+        <update_guid_history>f26a57584e603410d8e34ab4286a424b:1437571338</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Consumer Service.Issue / Inquiry">3d7a97582f603410e541e83df699b64e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-01 06:36:17</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>631750c0d6914548b1573cea46f68b10</sys_id>
+        <sys_metadata>fa6a57582f603410e541e83df699b648</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Consumer Service.Issue / Inquiry</sys_name>
+        <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
+        <sys_parent display_value="Issue / Inquiry">a91adf182f603410e541e83df699b68f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
+        <sys_scope_delete display_value="">0aebf85625564128a70b208c201b6b90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_fa6a57582f603410e541e83df699b648</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_fa6a57582f603410e541e83df699b648">ba6a57582f603410e541e83df699b64b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-01 06:36:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

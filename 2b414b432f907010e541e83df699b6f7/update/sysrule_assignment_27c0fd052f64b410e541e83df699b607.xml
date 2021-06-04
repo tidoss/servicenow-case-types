@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_assignment">
+    <sysrule_assignment action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <description/>
+        <group display_value="Issue / Inquiry Cases Admins" name="Issue / Inquiry Cases Admins">f03175452f64b410e541e83df699b605</group>
+        <match_conditions>ALL</match_conditions>
+        <name>Assignment for Issue / Inquiry Cases</name>
+        <order>100</order>
+        <script>/**&#13;
+* Example:&#13;
+* The following script requires personalizing the instance to add the Malware category and the Security assignment group.&#13;
+* if (current.category == "Hardware")&#13;
+*    current.assignment_group.setDisplayValue("Hardware"); &#13;
+* else if (current.category == "Software")&#13;
+*    current.assignment_group.setDisplayValue("Software");&#13;
+* else if (current.category == "Malware")&#13;
+*    current.assignment_group.setDisplayValue("Security");	&#13;
+*&#13;
+* Another Example:&#13;
+* Release Planning Example, which assigns the last person assigned to a release to the current release.&#13;
+* current.release.product.service.assigned_to;&#13;
+*/</script>
+        <sys_class_name>sysrule_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-03 06:52:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>27c0fd052f64b410e541e83df699b607</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Assignment for Issue / Inquiry Cases</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
+        <sys_update_name>sysrule_assignment_27c0fd052f64b410e541e83df699b607</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-03 06:52:50</sys_updated_on>
+        <table>x_643436_case_type_issue_inquiry</table>
+        <user/>
+    </sysrule_assignment>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-02 12:32:55</sys_created_on>
+        <sys_id>f3a535fc2fe47410e541e83df699b66e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_643436_case_type_issue_inquiry.x_643436_case_type.end_user</sys_name>
+        <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
+        <sys_security_acl display_value="x_643436_case_type_issue_inquiry">f3a535fc2fe47410e541e83df699b66d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f3a535fc2fe47410e541e83df699b66e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-02 12:34:31</sys_updated_on>
+        <sys_user_role display_value="x_643436_case_type.end_user" name="x_643436_case_type.end_user">88ade9f42fe47410e541e83df699b662</sys_user_role>
+        <transaction_id>37a5f9f02fe47410e541e83df699b6a9</transaction_id>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</application>
+        <file_path/>
+        <instance_id>4da484334f3612c0152a99701310c7a5</instance_id>
+        <instance_name>dev21682</instance_name>
+        <name>sys_security_acl_role_f3a535fc2fe47410e541e83df699b66e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-02 12:32:55</sys_created_on><sys_id>f3a535fc2fe47410e541e83df699b66e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_643436_case_type_issue_inquiry.x_643436_case_type.end_user</sys_name><sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package><sys_policy/><sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope><sys_security_acl display_value="x_643436_case_type_issue_inquiry">f3a535fc2fe47410e541e83df699b66d</sys_security_acl><sys_update_name>sys_security_acl_role_f3a535fc2fe47410e541e83df699b66e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-02 12:34:31</sys_updated_on><sys_user_role display_value="x_643436_case_type.end_user" name="x_643436_case_type.end_user">88ade9f42fe47410e541e83df699b662</sys_user_role><transaction_id>37a5f9f02fe47410e541e83df699b6a9</transaction_id></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>2033036888</payload_hash>
+        <record_name>x_643436_case_type_issue_inquiry.x_643436_case_type.end_user</record_name>
+        <reverted_from/>
+        <source>3f414b432f907010e541e83df699b6f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-02 12:34:31</sys_created_on>
+        <sys_id>9306b9302f287410e541e83df699b699</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179ccb7db670000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-02 12:34:31</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>1f06b930df287410fd2c9397bf2df798</update_guid>
+        <update_guid_history>1f06b930df287410fd2c9397bf2df798:2033036888,1b06793078287410e349c31e98172f08:-454228360</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_643436_case_type_issue_inquiry.x_643436_case_type.end_user">8b81f9452f64b410e541e83df699b62b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-03 06:53:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>29089cd1ea644c9686f97663a6d37044</sys_id>
+        <sys_metadata>f3a535fc2fe47410e541e83df699b66e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_643436_case_type_issue_inquiry.x_643436_case_type.end_user</sys_name>
+        <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
+        <sys_scope_delete display_value="">0aebf85625564128a70b208c201b6b90</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f3a535fc2fe47410e541e83df699b66e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f3a535fc2fe47410e541e83df699b66e">9306b9302f287410e541e83df699b699</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-03 06:53:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

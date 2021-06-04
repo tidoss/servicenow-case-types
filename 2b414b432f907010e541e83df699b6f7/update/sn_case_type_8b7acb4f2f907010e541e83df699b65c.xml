@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_case_type">
+    <sn_case_type action="INSERT_OR_UPDATE">
+        <case_type_table>x_643436_case_type_issue_inquiry</case_type_table>
+        <category/>
+        <internal_name>x_643436_case_type.x_643436_case_type_issue_inquiry</internal_name>
+        <short_description>Issues and/or Inquiries </short_description>
+        <subtype/>
+        <sys_class_name>sn_case_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-28 08:14:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>8b7acb4f2f907010e541e83df699b65c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_643436_case_type_issue_inquiry</sys_name>
+        <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
+        <sys_update_name>sn_case_type_8b7acb4f2f907010e541e83df699b65c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-28 08:14:54</sys_updated_on>
+    </sn_case_type>
+</record_update>

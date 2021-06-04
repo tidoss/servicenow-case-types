@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Issue / Inquiry">a91adf182f603410e541e83df699b68f</catalog_item>
+        <catalog_variable>IO:c6892f942fa03410e541e83df699b623</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-01 12:20:25</sys_created_on>
+        <sys_id>2d3968ec2f643410e541e83df699b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_2d3968ec2f643410e541e83df699b65f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-01 12:20:25</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make Description Mandatory">ca09a4ec2f643410e541e83df699b671</ui_policy>
+        <variable>short_description</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</application>
+        <file_path/>
+        <instance_id>4da484334f3612c0152a99701310c7a5</instance_id>
+        <instance_name>dev21682</instance_name>
+        <name>catalog_ui_policy_action_2d3968ec2f643410e541e83df699b65f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Issue / Inquiry">a91adf182f603410e541e83df699b68f</catalog_item><catalog_variable>IO:c6892f942fa03410e541e83df699b623</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-01 12:20:25</sys_created_on><sys_id>2d3968ec2f643410e541e83df699b65f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>short_description</sys_name><sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package><sys_policy/><sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope><sys_update_name>catalog_ui_policy_action_2d3968ec2f643410e541e83df699b65f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-01 12:20:25</sys_updated_on><table/><ui_policy display_value="Make Description Mandatory">ca09a4ec2f643410e541e83df699b671</ui_policy><variable>short_description</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-240972771</payload_hash>
+        <record_name>short_description</record_name>
+        <reverted_from/>
+        <source>3f414b432f907010e541e83df699b6f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-01 12:20:25</sys_created_on>
+        <sys_id>323968ec2f643410e541e83df699b6e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179c784951a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-01 12:20:25</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>7a3968ece5643410a981d23091fb75e6</update_guid>
+        <update_guid_history>7a3968ece5643410a981d23091fb75e6:-240972771</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="short_description">4ce964ec2f643410e541e83df699b61c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-01 12:23:14</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>09eca296877f4ade82bf1126754da4e1</sys_id>
+        <sys_metadata>2d3968ec2f643410e541e83df699b65f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
+        <sys_scope_delete display_value="">0aebf85625564128a70b208c201b6b90</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_2d3968ec2f643410e541e83df699b65f</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_2d3968ec2f643410e541e83df699b65f">323968ec2f643410e541e83df699b6e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-01 12:23:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="awa_assignment_rule">
+    <awa_assignment_rule action="DELETE">
+        <after_timeout_presence/>
+        <allow_agents_to_decline>false</allow_agents_to_decline>
+        <assign_by>last_assigned</assign_by>
+        <enable_skills>false</enable_skills>
+        <enforce_mandatory_skills>false</enforce_mandatory_skills>
+        <evaluate_skill_level>false</evaluate_skill_level>
+        <name>Issue / Inquiry Case Assignment</name>
+        <reassign_on_timeout>false</reassign_on_timeout>
+        <short_description>Issue / Inquiry Case Assignment</short_description>
+        <sys_class_name>awa_assignment_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-03 06:49:17</sys_created_on>
+        <sys_id>7370b9812f64b410e541e83df699b6bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issue / Inquiry Case Assignment</sys_name>
+        <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
+        <sys_update_name>awa_assignment_rule_7370b9812f64b410e541e83df699b6bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-03 06:49:17</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+    </awa_assignment_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</application>
+        <file_path/>
+        <instance_id>4da484334f3612c0152a99701310c7a5</instance_id>
+        <instance_name>dev21682</instance_name>
+        <name>awa_assignment_rule_7370b9812f64b410e541e83df699b6bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="awa_assignment_rule"><awa_assignment_rule action="INSERT_OR_UPDATE"><after_timeout_presence/><allow_agents_to_decline>false</allow_agents_to_decline><assign_by>last_assigned</assign_by><enable_skills>false</enable_skills><enforce_mandatory_skills>false</enforce_mandatory_skills><evaluate_skill_level>false</evaluate_skill_level><name>Issue / Inquiry Case Assignment</name><reassign_on_timeout>false</reassign_on_timeout><short_description>Issue / Inquiry Case Assignment</short_description><sys_class_name>awa_assignment_rule</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-03 06:49:17</sys_created_on><sys_id>7370b9812f64b410e541e83df699b6bc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Issue / Inquiry Case Assignment</sys_name><sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package><sys_policy/><sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope><sys_update_name>awa_assignment_rule_7370b9812f64b410e541e83df699b6bc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-03 06:49:17</sys_updated_on><timeout>1970-01-01 00:00:00</timeout></awa_assignment_rule></record_update>]]></payload>
+        <payload_hash>-825844650</payload_hash>
+        <record_name>Issue / Inquiry Case Assignment</record_name>
+        <reverted_from/>
+        <source>3f414b432f907010e541e83df699b6f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-03 06:49:17</sys_created_on>
+        <sys_id>f39079812f64b410e541e83df699b64a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179d0a2252e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-03 06:49:17</sys_updated_on>
+        <type>Assignment Rule</type>
+        <update_guid>3f9079817864b410ed1562664d2a7c49</update_guid>
+        <update_guid_history>3f9079817864b410ed1562664d2a7c49:-825844650</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Issue / Inquiry Case Assignment">eba0b1c12f64b410e541e83df699b636</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-03 06:49:33</sys_created_on>
+        <sys_db_object display_value="" name="awa_assignment_rule">awa_assignment_rule</sys_db_object>
+        <sys_id>73ad5d22ab3645b7b23901a197cdc659</sys_id>
+        <sys_metadata>7370b9812f64b410e541e83df699b6bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issue / Inquiry Case Assignment</sys_name>
+        <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
+        <sys_scope_delete display_value="">0aebf85625564128a70b208c201b6b90</sys_scope_delete>
+        <sys_update_name>awa_assignment_rule_7370b9812f64b410e541e83df699b6bc</sys_update_name>
+        <sys_update_version display_value="awa_assignment_rule_7370b9812f64b410e541e83df699b6bc">f39079812f64b410e541e83df699b64a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-03 06:49:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="Issue / Inquiry">a91adf182f603410e541e83df699b68f</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-02 11:46:00</sys_created_on>
+        <sys_id>94fae1342fe47410e541e83df699b67e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issue / Inquiry.SNC External</sys_name>
+        <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_94fae1342fe47410e541e83df699b67e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-02 11:46:00</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</application>
+        <file_path/>
+        <instance_id>4da484334f3612c0152a99701310c7a5</instance_id>
+        <instance_name>dev21682</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_94fae1342fe47410e541e83df699b67e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Issue / Inquiry">a91adf182f603410e541e83df699b68f</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-02 11:46:00</sys_created_on><sys_id>94fae1342fe47410e541e83df699b67e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Issue / Inquiry.SNC External</sys_name><sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package><sys_policy/><sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_94fae1342fe47410e541e83df699b67e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-02 11:46:00</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>1414639705</payload_hash>
+        <record_name>Issue / Inquiry.SNC External</record_name>
+        <reverted_from/>
+        <source>e320a5a32f003010e541e83df699b6e4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-05-17 03:30:51</sys_created_on>
+        <sys_id>e65bad342fe47410e541e83df699b646</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>179786059f80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>a65bad34b4e474102132fa2c82c52946</update_guid>
+        <update_guid_history>a65bad34b4e474102132fa2c82c52946:1414639705</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Issue / Inquiry.SNC External">ae5b25742fe47410e541e83df699b636</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-02 11:47:47</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>1e50f817a9e143549179b40269431a44</sys_id>
+        <sys_metadata>94fae1342fe47410e541e83df699b67e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issue / Inquiry.SNC External</sys_name>
+        <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
+        <sys_parent display_value="Issue / Inquiry">a91adf182f603410e541e83df699b68f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
+        <sys_scope_delete display_value="">0aebf85625564128a70b208c201b6b90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_94fae1342fe47410e541e83df699b67e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_94fae1342fe47410e541e83df699b67e">e65bad342fe47410e541e83df699b646</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-02 11:47:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
