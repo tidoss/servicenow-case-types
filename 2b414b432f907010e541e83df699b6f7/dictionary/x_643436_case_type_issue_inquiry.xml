@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="sn_customerservice_case" label="Issue / Inquiry" max_length="40" name="x_643436_case_type_issue_inquiry" sizeclass="21" type="collection">
+    <element audit="true" extends="sn_customerservice_case" label="Issue / Inquiry" max_length="40" name="x_643436_case_type_issue_inquiry" sizeclass="30" type="collection">
         <element choice="1" label="Case Type Choice" max_length="40" name="case_type_choice" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Issue" sequence="100" value="issue"/>
