@@ -35,7 +35,7 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Test</p>]]></message_html>
+        <message_html><![CDATA[<p>Dear ${opened_by},<br /><br />Your case - ${number} - has a new person assigned to it.<br /><br />Best.</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Issue / Inquiry Assigned</name>
@@ -57,7 +57,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>313aa7b82f303010e541e83df699b62b</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Issue / Inquiry Assigned</sys_name>
         <sys_overrides/>
         <sys_package display_value="Case Type Issue / Inquiry" source="x_643436_case_type">2b414b432f907010e541e83df699b6f7</sys_package>
@@ -65,7 +65,7 @@
         <sys_scope display_value="Case Type Issue / Inquiry">2b414b432f907010e541e83df699b6f7</sys_scope>
         <sys_update_name>sysevent_email_action_313aa7b82f303010e541e83df699b62b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-06-15 08:07:07</sys_updated_on>
+        <sys_updated_on>2021-06-15 13:27:39</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
